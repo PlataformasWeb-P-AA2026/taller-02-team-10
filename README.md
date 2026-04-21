@@ -336,3 +336,22 @@ Se implementó una arquitectura real separando:
 * visualización (visualizacion1)
 
 usando flujo profesional con GitHub y despliegue en infraestructura virtual.
+
+<img width="839" height="184" alt="Captura desde 2026-04-21 12-09-54" src="https://github.com/user-attachments/assets/cc7a5894-1eaf-43ae-8599-9dbf01e2185f" />
+
+<img width="839" height="184" alt="Captura desde 2026-04-21 12-09-54" src="https://github.com/user-attachments/assets/7d95cadb-3325-476c-836c-920396e77898" />
+
+
+
+<img width="839" height="184" alt="Captura desde 2026-04-21 12-09-54" src="https://github.com/user-attachments/assets/eeb31efc-55ba-4072-b7e9-9509e43c42dc" />
+
+<img width="1920" height="1121" alt="Captura desde 2026-04-21 12-11-40" src="https://github.com/user-attachments/assets/5561c3aa-c95c-4ae6-b44b-755db8a7e2a3" />
+
+<img width="921" height="479" alt="Captura desde 2026-04-21 12-36-02" src="https://github.com/user-attachments/assets/edabd182-1072-4201-bb6e-eccb12fa9ca0" />
+
+
+<img width="921" height="479" alt="Captura desde 2026-04-21 12-47-19" src="https://github.com/user-attachments/assets/17515cbe-ed12-4b5d-84fc-caf04f45b017" />
+
+<img width="921" height="479" alt="Captura desde 2026-04-21 12-51-31" src="https://github.com/user-attachments/assets/6e009326-1747-4964-8751-5a71609a3157" />
+
+
