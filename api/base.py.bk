@@ -2,7 +2,6 @@ import psycopg2
 
 # --- ARCHIVO DE PLANTILLA (EJEMPLO) ---
 # Este archivo muestra la estructura necesaria para la conexión
-# NO contiene credenciales reales por seguridad
 
 def conectar():
     return psycopg2.connect(
