@@ -1,6 +1,6 @@
 # Evidencias - Taller 02: IaaS local con Multipass
 
-**Objetivo:** Construir un sistema distribuido separando datos (base1), lógica (api1) y visualización (visualizacion1) usando infraestructura virtual
+Integrantes: Alex Serrrano, Ronald Calderon
 
 ---
 
