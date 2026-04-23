@@ -25,7 +25,7 @@ El servidor FastAPI está conectado a la base de datos y respondiendo peticiones
 ## 4. Visualización (Dashboard en visualizacion1)
 La aplicación de Streamlit consume los datos de la API correctamente mostrando la tabla y el promedio salarial
 <img width="920" height="294" alt="imagen" src="https://github.com/user-attachments/assets/13d22fcb-af55-4213-a13c-dc38128600e6" />
-<img width="744" height="294" alt="imagen" src="https://github.com/user-attachments/assets/556789f2-338f-4593-9053-4f5ffaeb04b7" />
+<img width="1166" height="596" alt="imagen" src="https://github.com/user-attachments/assets/8081684e-7698-4706-847d-8f95584c8375" />
 
 
 ## 5. CAPTURAS ADICIONALES DE TODO EL TALLER
