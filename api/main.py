@@ -1,15 +1,7 @@
 from fastapi import FastAPI
-import psycopg2
+from base import conectar
 
 app = FastAPI()
-
-def conectar():
-    return psycopg2.connect(
-    host="localhost",
-    dbname="empresa",
-    user="apiuser",
-    password="1234"
-)
 
 @app.get("/empleados")
 def empleados():
