@@ -1,0 +1,3 @@
+# EJEMPLO
+# Reemplazar aqui con la IP de su API que vayan a usar 
+API_URL = "http://IPDeLaAPI:8000/empleados"

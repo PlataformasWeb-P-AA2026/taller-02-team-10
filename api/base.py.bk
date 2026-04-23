@@ -1,0 +1,10 @@
+import psycopg2
+
+# EJEMPLO
+def conectar():
+    return psycopg2.connect(
+    host="IPDeLaBasedeDatos",
+    dbname="empresa",
+    user="apiuser",
+    password="contraseña"
+)
